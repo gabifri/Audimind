@@ -16,7 +16,7 @@ Audimind GUI est une application qui permet [**description rapide de la fonction
 
 ### Prérequis
 
-1. **Python 3.10** ou une version supérieure.
+1. **Python 3.10**
 2. Un compte sur [Notion](https://www.notion.so/) avec une intégration API configurée.
 
 ### Étapes pour installer le logiciel
